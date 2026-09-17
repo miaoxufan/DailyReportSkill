@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Weekly Report"
+  short_description: "整理实验进展、指标、问题与下一步计划"
+  default_prompt: "使用研究周报模板汇总本周实验、结果、问题、结论和下一步计划。"
